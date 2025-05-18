@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+  <channel>https://codebeautify.org/rssviewer#
+    <title>El podcast de Radios Libres</title>
+    <link>https://radioslibres.net/</link>
+    <description>Radios Libres presenta su podcast sobre radios comunitarias y tecnologías libres.</description>
+    <copyright>CC 4.0 – BY-SA</copyright>
+
+    <item>
+      <title>El Papado y la Santa Sede</title>
+      <link>https://forum.paradoxplaza.com/forum/developer-diary/tinto-flavour-14-17th-of-april-2025-the-papal-states.1735711//</link>
+      <description>El Papado centro de poder y guía espiritual de la mayoria de la europa</description>
+      <author>Paradox</author>
+      <pubDate>Wed, 17 Abr 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://forum.paradoxplaza.com/forum/developer-diary/tinto-flavour-14-17th-of-april-2025-the-papal-states.1735711/" length="360"/>
+    </item>
+
+    <item>
+      <title>Brandemburgo y Prusia</title>
+      <link>https://forum.paradoxplaza.com/forum/developer-diary/tinto-flavour-16-9th-of-may-2025-brandenburg-prussia.1743496/</link>
+      <description>La mayoría de estados tienen ejercito, pero el ejercito prusiano tiene un estado</description>
+      <author>Paradox</author>
+      <pubDate>Fri, 9 May 2025 00:00:00 +0000</pubDate>
+      <enclosure url="https://forum.paradoxplaza.com/forum/developer-diary/tinto-flavour-16-9th-of-may-2025-brandenburg-prussia.1743496/" length="300"/>
+    </item>
+
+  </channel>
+
+</rss>
